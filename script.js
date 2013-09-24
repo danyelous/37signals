@@ -1,8 +1,4 @@
 $(document).ready(function() {
-//		$('.initialmessage').toggle();
-//		$('.basecamp').toggle();
-
-
 
     $('.button1').mouseenter(function() {
 		$('.initialmessage').toggle();
