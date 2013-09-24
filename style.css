@@ -83,7 +83,7 @@ h1{
 h2 {
 font-family: "CrimsonSemibold","Times New Roman",Georgia,serif;
     color: #222222;
-    font-size: 1.3em;
+    font-size: 22px;
     text-align: center;
     font-weight: normal;
 }
@@ -133,3 +133,50 @@ h5{
 
 }
 
+#divimage {
+    width: 72px;
+    margin: 40px auto 0px auto;
+}
+.stars {
+    text-align: center;
+}
+
+.basecamp, .highrise, .campfire {
+	display: none;
+    height: 165px;
+}
+.initialmessage{
+    height: 165px;
+}
+
+h1.subtitle span {
+	color: #336699;
+    text-decoration: underline;
+}
+
+h1.subtitle {
+    font-size: 40px;
+	
+    margin-right: 40px;
+    margin-left: 40px;
+	
+}
+h2.subtitle {
+    font-size: 18px;
+}
+
+.arrow-basecamp {
+    top: -10px;
+    left: 305px;
+    position: relative;
+}
+.arrow-highrise {
+    top: -10px;
+    left: 535px;
+    position: relative;
+}
+.arrow-campfire {
+    top: -10px;
+    left: 610px;
+    position: relative;
+}
