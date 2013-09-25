@@ -155,14 +155,17 @@ h1.subtitle span {
 }
 
 h1.subtitle {
-    font-size: 40px;
+    font-size: 46px;
 	
-    margin-right: 40px;
-    margin-left: 40px;
+    margin-right: 95px;
+    margin-left: 95px;
 	
 }
 h2.subtitle {
     font-size: 18px;
+	
+    margin-right: 75px;
+    margin-left: 75px;
 }
 
 .arrow-basecamp {
