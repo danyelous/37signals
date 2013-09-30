@@ -144,6 +144,8 @@ h5{
 .basecamp, .highrise, .campfire {
 	display: none;
     height: 165px;
+	cursor: pointer;
+	cursor: hand;
 }
 .initialmessage{
     height: 165px;
@@ -169,17 +171,17 @@ h2.subtitle {
 }
 
 .arrow-basecamp {
-    top: -10px;
     left: 300px;
     position: relative;
+    top: -15px;
 }
 .arrow-highrise {
-    top: -10px;
     left: 525px;
     position: relative;
+    top: -15px;
 }
 .arrow-campfire {
-    top: -10px;
-    left: 610px;
+    left: 605px;
     position: relative;
+    top: -15px;
 }
